@@ -1,7 +1,7 @@
 ---
 title: "Gov 50 Final Project"
-author: "Your Name Here"
-description: "My final project"
+author: "Cynthia Garcia"
+description: "My snazzy and super rad final project"
 output:
   distill::distill_article:
     self_contained: false
@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am not decided on what I want my project to be. I am very interested in the law and so I think it would be interesting to collect data relating to a topic on that. One idea would be looking into the Supreme Court, specifically, their patterns in decision-making and how that is affected based upon the political makeup of the court. I am still open to other ideas but that is a direction I definitely see myself heading to.
