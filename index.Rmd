@@ -9,6 +9,14 @@ output:
 
 
 
-## Project thoughts
+## Project Thoughts
 
 I am not decided on what I want my project to be. I am very interested in the law and so I think it would be interesting to collect data relating to a topic on that. One idea would be looking into the Supreme Court, specifically, their patterns in decision-making and how that is affected based upon the political makeup of the court. I am still open to other ideas but that is a direction I definitely see myself heading to.
+
+##Project Proposal
+
+Do court justices fulfill their duty of remaining impartial when deciding cases? In this study, I plan to examine the connection between the background of justices and how those biases may align with the decisions made on important court cases. I think it would also be interesting to explore how these trends have developed over time - if over the years decision have become more or less biased. I believe that justices are inherently supposed to not let outside factor influence their interpretation of the law and it has been a continuous question throughout history whether they actually complete this task. I hypothesize that justices are not fulfilling their occupational responsibility and being influenced by their own beliefs. Furthermore, I think that over the years these justices have increasingly become more biased. This is because there has been increasing polarity over politics and I think that as society has progressed people have aligned more with parties. The explanatory variables are those that align with possible biases such as parties and appointments. These variables will be measured from a database on the Court of Justice of the European Union. I think it is particularly interesting to explore courts outside of the United States especially because the politics are differing. Then the variable I observe would be the decisions table which include variables such as judgments or opinions. Depending on how the judgements and opinions parallel or show correlation to the biases above that would provide a question that answer my research question. 
+
+Furthermore, I would like to note that I loaded the data into R but I'm not sure if its supposed to show up anywhere but if need be I do have photographic evidence that my data set is in my Gov50 Final Project and that it has been loaded into R. 
+
+
